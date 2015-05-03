@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "GSoC 2015, My third attempt, My first acceptance."
+date:   2015-05-03 14:04:29
+categories: jekyll update
+---
+
+![GSoC 2015 image](/assests/gsoc2015.png "Title")
+
+GSoC 2013 no, GSoC 2014 no, GSoC 2015 YEAAAAAAAAS!
+
+This year was my third attempt to participate in summer of code, I want to start by saying that this program really helped
+me develop my skills since my first attempt.
+
+and actually looking back at my history applying for the program I can see what went wrong, and let me deliver that experience
+to you.
+
+## GSoC 2013
+
+Well, everything was so wrong in my first year applying :D.
+
+I didn't know anything about source version control, my programming skills was so modest, I had no idea what building a
+project means that wasn't even in my dictionary, I couldn't use the terminal for anything like at all.
+
+And the biggest flaw due to the absence of all this knowledge, I had a wrong estimate of the size of the project I'm applying to.
+I was applying for the C++ library Boost. enough said I guess?
+
+Anyway that year my goal wasn't to get into the program I knew I wasn't ready but I wanted to get a taste of what it's like
+and I can say that year got that job done.
+
+## GSoC 2014
+
+I learnt a lot from GSoC 2014, I became better programmer I started using Git I started using the command line for more stuff
+and to be fair I had a really good chance that year, the lack of preparation is what stopped me from advancing, the orgnaization
+I applied for that year was Subsurface it's a divelog desktop application written in C/C++ with Qt, my project was to build their
+iOS app.
+
+But the organization required that every student has to submit 2 patches for the project before submitting a proposal, and
+well I had 0 experience doing that, so It took a lot of time to do that and it was exciting to see my first contribution
+but it took me lots of time that I had to submit the proposal just couple of hours before the deadline..
+
+So that killed my chances.
+
+## GSoC 2015
+
+I learnt lessons from the previous 2 years I'm more confident I'm aware of how the process goes, but I was about to make a mistake
+again this year but fortunately I realised it before it's too late.
+
+This mistake was trying to make a proposal for multiple projects, I thought that was increasing my chances but soon I realised
+my time was being wasted with no real progress, but as I started working 2 weeks earlier than the official starting date,
+I realised that early enough. wuff!
+
+So I chose to focus on OpenMRS-iOS app extensions I have huge confidence in my skills to do project since I already worked
+on some iOS apps and contributed to open-source iOS apps too, so I managed to get a couple of pull requests merged early.
+
+Then I started working on the proposal and I made sure to make as much UI mock ups as I can "and you should do the same if
+you area applying for a project that invloves UI" and my mentors seemed to like it, like it Enough to accept me to work on
+this project as a part of summer of code!
+
+## Looking forward to summer!
+
+I'm really excited to go through this experience this summer, I never worked did a 'real' full time job before so I'm looking
+forward to really try that, I'm considering trying to go to a co-working space to like get the real experience, also the project
+is really exciting and challenging and that's really exciting.
+
+Can't wait!
