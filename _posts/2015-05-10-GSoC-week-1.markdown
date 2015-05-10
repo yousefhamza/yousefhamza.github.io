@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "GSoC 2015: First pull requests"
+date:   2015-05-10 14:04:29
+categories: jekyll update
+---
+
+![GSoC 2015 image](/assests/openmrs.png "Title")
+So, in my [proposal](https://wiki.openmrs.org/display/projects/iOS+Client+Extensions+Proposal) for this year for OpenMRS
+I have listed some to-dos to work on the community bonding area to make the
+development tasks later much easier, these tasks are:
+
+
+- Add User experience enhancements.
+- Finish Already existing TODOs in the codebase.
+- Fixing JIRA tickets.
+- Refactoring the code.
+- Put a “CodingStyle” file for future contributors.
+- Integrate the code base with Travis CI.
+- Update the OpenMRS-iOS Development Guide.
+
+This week I wasn't free like at all, but I managed to push some code to add User experience enhancements -was my most loved
+part of this week <3- that I have experienced myself e.g.: No feedback in the search view, and clicking on the table cell highlight the cell but don't activate
+the text field.
+
+If you got any ideas or issues please create an issue [here](https://issues.openmrs.org/issues/?jql=project%20%3D%20IOS)
+or if you find that difficult you can just [email me](mailto:jo.adam.93@gmail.com) with a screen shot.
+
+Always had a chance to surf the code to check for the TODOs I find there was only one for handling coredata error, but it's
+serious and will work on it next week.
