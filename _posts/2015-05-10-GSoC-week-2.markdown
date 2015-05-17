@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "GSoC 2015: Big changes"
+date:   2015-05-10 14:04:29
+categories: jekyll update
+---
+
+Well, It is not that big.
+
+But just some stuff that came to mind the minute I first checked the code, It was hard to find the desired files, the
+naming is fine but ALL the files were just flat the project navigator and there's lots of them (68).
+
+so just re-organizing the files per function really helped clear the scene more.
+
+The result:
+![Project navigator image](/assests/project_navigator.png "Title")
+
+So that was good,
+
+Next came Travis CI, I have worked with projects using it and see how useful it can be but it was my first time trying
+to deploy one. well and for iOS project that was not cool, Travis is Cool but I guess swift is not.
+
+I wasted some good amounts of time trying to make it work with no luck like at all, I think that's due to that the language
+is still in development and evolving with every version of xcode, so that still work in progress.
+
+Last thing was adding a Codingstyle, that came to me when I was making some pull requests and Parker the current maintainer
+pointed out he is using a spaces instead of tabs 'that were in my commits" so I suggested to add a simple Codingstyle file
+for future contributes too.
+
+That also involved making sure that existing code is following the same rules, so I managed to find a tool called "Artistic
+Style" to do exactly that, I sat my options and it worked.
+
+What's left is just fixing 2 JIRA tickets and making Travis work, hopefully I get this done by tuesday, Cause I must go
+cool off before the finals this weekend!
+
+Now I go finish my 7 pattern recognition experiments to deliver tomorrow, PEACE!
