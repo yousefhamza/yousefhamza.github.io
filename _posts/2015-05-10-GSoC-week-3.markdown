@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "GSoC 2015: Tomorrow it kicks off"
+date:   2015-05-10 14:04:29
+categories: jekyll update
+---
+
+![Welcome package image](/assests/welcome_package.jpg "Title")
+
+So this has been a pretty exciting week GSoC wise I have been able to finish most of the left over stuff form last week.
+
+Travis in particular was really annoying even after it worked the new syntax changes was not available in Travis XCode
+(version 6.1.1) So to finish this I have to make just the ugliest hack I think of all time, which is reverting the
+new swift code updates before starting to work on it, and This actually works you can check the file here: [.travis.yml](https://github.com/Undo1/openmrs-contrib-ios-client/blob/master/.travis.yml)
+
+Also I fixed all the JIRA Tickets available, I would encourage you if you are checking this to add more issues [there](https://issues.openmrs.org/issues/?jql=project%20%3D%20IOS) :)
+
+And finally my welcome package has arrived the pen looks pretty decent, the notebook not sure actually :D
+My journey has been quite fun this week and I hope this continue :)
