@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "GSoC 2015: 2 weeks in GSoC 2 weeks in Final Exams"
+date:   2015-05-10 14:04:29
+categories: jekyll update
+---
+
+I'm having a very very stressful time, I'm in the middle of brutal Final exams schedule maximum 3 days between any 2 exams
+and my courses this semester are not making it any easier (Cryptography, Pattern recognition, Computer Graphics, AI)
+
+Hopefully all this will be done soon!
+
+Now to GSoC, I'm right on schedule in my [proposal](https://wiki.openmrs.org/display/projects/iOS+Client+Extensions+Proposal)
+but due to very busy mind I forgot to complete my weekly feedback and I'm now 2 missed feedback forms away from being kicked
+which is really sad since I already done my work on time.
+
+Anyway this 2 weeks included adding active visits to the app, also adding a batter patient view which included adding a handful
+of images this was my first time dealing with images and handling it's size in iOS application but it was a nice experience
+but raise the need for a tool to handle that which I think already there I just have to look
+
+So pull the new updates when merged and tell me what you think!
+and Let me know if you had any suggestions or feedback here: [email](mailto:jo.adam.93@gmail.com)
