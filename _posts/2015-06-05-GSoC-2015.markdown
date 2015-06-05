@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GSoC 2015: 2 weeks in GSoC 2 weeks in Final Exams"
-date:   2015-05-10 14:04:29
+date:   2015-06-05 20:04:29
 categories: jekyll update
 ---
 
