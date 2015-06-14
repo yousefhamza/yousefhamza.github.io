@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GSoC 2015: Week 3 and program kick off!"
+date:   2015-06-14 20:04:29
+categories: jekyll update
+---
+
+
+Starting this week real work begins.
+I will be working on OpenMRS app full time and hope the next few weeks will be a huge improvement.
+
+About this week:
+The expected output of this week is adding the Patient edit functionality to the app, but with the ability to edit even offline
+ patients offline and sync them when the user go online again and this is the tricky part But I think I got it now will try
+ to post full details of the task when done.
+
+ link to the proposal: [Here](https://wiki.openmrs.org/display/projects/iOS+Client+Extensions+Proposal)
+ And also remember if you have a feed back please [email me](mailto:jo.adam.93@gmail.com) or post a JIRA ticket!
