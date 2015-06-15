@@ -1,0 +1,50 @@
+html, body, #map-canvas {
+    height: 100%;
+    margin: 0px;
+    padding: 0px
+}
+#panel {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    margin-left: -180px;
+    z-index: 5;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #999;
+    width: 150px;
+    padding: 5px;
+    border-radius: 10px;
+}
+#text {
+    margin: 1px;
+}
+
+#canvas-holder {
+    visibility: hidden;
+    border-radius: 15px;
+    z-index: 5;
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    width: 300px;
+    height: 300px;
+    background-color: #ffffff;
+    border-bottom-color: black;
+    border-width: 2px;
+    border-style: solid;
+}
+#canvas-holder p {
+    text-align: center;
+    border-bottom: solid 2px black;
+    margin-top: 5px;
+}
+#chart-area {
+    margin-left: 25px;
+}
+
+button {
+    position: absolute;
+    top: 5px;
+    z-index: 5;
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="maps.css">
+	<script type="text/javascript"
+			src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDDFC_u1_YsLaOok_ZWQMbJBDW4X_S3L0E">
+	</script>
+	<script type="text/javascript" src="jquery-1.11.3.min.js" > </script>
+	<script type="text/javascript" src="Chart.js"> </script>
+	<script type="text/javascript" src="maps.js" > </script>
+</head>
+<body onmousemove="moveBox(event)" onclick="draw_piechart()">
+	<div id="panel">
+		<p id="text"></p>
+	</div>
+	<div id="canvas-holder">
+		<p></p>
+		<canvas id="chart-area" width="250" height="250"/>
+	</div>
+	<div id="map-canvas"></div>
+</body>
+</html>
