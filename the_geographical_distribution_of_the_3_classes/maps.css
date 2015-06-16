@@ -28,16 +28,16 @@ html, body, #map-canvas {
     right: 5px;
     top: 5px;
     width: 300px;
-    height: 300px;
-    background-color: #ffffff;
-    border-bottom-color: black;
-    border-width: 2px;
-    border-style: solid;
+    height: 420px;
+    background-color: #ffffbb;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
 }
-#canvas-holder p {
+#canvas-holder #title {
     text-align: center;
-    border-bottom: solid 2px black;
+    border-bottom: solid 1px black;
     margin-top: 5px;
+    padding: 10px;
+    font-family: "Georgia", "Times New Roman", Helvetica, Arial, sans-serif;
 }
 #chart-area {
     margin-left: 25px;

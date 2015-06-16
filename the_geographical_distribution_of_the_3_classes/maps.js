@@ -203,11 +203,13 @@ function draw_piechart() {
         {
             value: high,
             color: "#BBBBBB",
-            highlight: "#FFC870",
+            highlight: "#CCCCCC",
             label: "High"
         }
     ];
-    $('#canvas-holder p').text(closest_city);
+    $('#canvas-holder #title').text(closest_city);
+    $('#chart-area').remove();
+    $('#canvas-holder').append('<canvas id="chart-area" width="250" height="250"/>');
     $('#canvas-holder').css('visibility', 'visible');
     var ctx = document.getElementById("chart-area").getContext("2d");
     window.myPie = new Chart(ctx).Pie(pieData);
