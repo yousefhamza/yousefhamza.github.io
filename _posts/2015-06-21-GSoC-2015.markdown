@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "GSoC 2015: Week 3 and part Week 4!"
+date:   2015-06-21 22:04:29
+categories: jekyll update
+---
+
+Well After finishing tons of work that last week Which me myself thought it was week 3, it looked like I made a miscalculation
+there which put even more work upon my shoulders and it looks like it will be that way until the midterm evaluation always
+working even on week ends :/.
+
+Anyway that last week part was really tricky and made me release even more the necessity of Software Design/Architecture
+and how important is that for software development, good design could save TONS of time.
+
+It was about editing the patients on the app on one hand and then if offline syncing them back online, there was 2 tricky
+parts there the data model in the application wasn't perfectly matching the one on the server and also the fact that forms
+just don't belong to the Mobile.
+
+That resulted some hardcoding which I paid for it later when I added support for other languages to seperate between the model
+and the view text representation.
+
+Also Today I just added State restoration that was kinda easy but lot's of tedious work and Raise one more flag for the need
+for more organization and resusability needed in the code.
