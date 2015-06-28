@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "GSoC 2015: Midterm!"
+date:   2015-06-28 16:04:29
+categories: jekyll update
+---
+
+So now we are in midterm evacuation period and I have successfully completed my TO-DOs so far
+This week I spent most of it making bug fixes and better state handling and that's still ongoing process
+
+The features added this week are not directly sensible but have a huge impact on user, and also added support for
+other languages, for now German and French, next Spanish, Portuguese, Catalan and Malay.
+
+Also got to started iPad views and animations and that will be done by next week.
+Here's a taste of that:
+![ipadView image](/assests/ipadView.png "Title")
+
+Next after finishing iPad views I will be working on refactoring the code and using a framework to handle all forms
+and better state handling to make not only the app bug proof but only to make the code safer.
+
+and you can check my midterm presentation by clicking on image below below thanks!
+
+[![IMAGE ALT TEXT](/assests/midtermImage.png)](https://www.youtube.com/watch?v=X1VLHgFzt7Q "Midterm presetnation")
