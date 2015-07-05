@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "GSoC 2015: Exploring Cocoa frameworks!"
+date:   2015-07-06 16:04:29
+categories: jekyll update
+---
+
+PHEW!
+
+What an exciting week!
+Well, for a starter I took a very well deserved well worth it vacation for a couple of days in Alexandria with a couple of
+friends that was actually pretty nice
+
+But to the technical PART now Joe!
+This week the work was pretty good I learned alot of stuff there explored the world of ObjC frameworks
+and refactored serious parts of the code and used an amazing forms framework called XLForms check it out if you are
+building any forms-oriented app.
+
+Also took a little HEAD FIRST dive into testing and learned some concepts there to test the changes I made there to make the
+code and I guess it's x2 safer now.
+Note: If you are trying to stub your requests that you make in the app using AFNetworking use OHTTPStubs it's just have
+a better support more than Nocilla.
+
+And.. HOLLY MOLLY!
+When I was trying to add remove offline records in the app I had to brush on some of my Coredata skills
+I was able to tackle one of the MAJOR bugs.. Actually it's the biggest bug in the app! that caused it to crash at launch.
+
+The app is now much better looking and also a much safer code!
