@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "GSoC 2015: Release is coming!, And welcome XForms!"
+date:   2015-07-19 16:04:29
+categories: jekyll update
+---
+
+Hey there all.
+
+The app is now just waiting for the review from apple to be released in the app store it will take
+about a weak here's a sneak peak at the release note ;)
+
+> * Various bug fixes & performance updates
+> * Updates to user interface for viewing patients
+> * Edit patients from the app
+> * Automatically sync offline patients: You can now make changes to a patient even when offline, and they'll be applied next time you start the app with Internet access
+> * Localization! The app is now localized to:
+>   * French
+>   * German
+>   * Malay
+>   * Spanish
+>   * Catalan
+>   * Portuguese
+>  
+> * If you quit the app and relaunch it, it will automatically open what you had open last
+> * View a list of currently active visits
+> * Report bugs: Shake your device to open a bug reporter
+> * iPad support: Now runs natively on iPad
+
+Also this week I did some a quite good reading about XForms and I guess I have been lucky so far
+I was really scared of it at the beginning of the program.
+
+But now I have very good grasp of it that If I worked really hard I can finish it by the end of
+this week!
+I will post a screen shots in my next post.
+
+Till then. CYA!
