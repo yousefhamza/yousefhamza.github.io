@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "GSoC 2015: XForms are about here!"
+date:   2015-07-19 18:04:29
+categories: jekyll update
+---
+
+Hey there!
+
+Fot the last week I have been working on implementing a solution for XForms, And things have been
+going really really great that it's just about done!
+
+My implementation has support for almost all the types on the server has a client side checking
+and has in my experience a nicer interface!
+
+The model and controller and views is done, Now I will work on uploading and that's it!
+
+you will be able to check it out soon as I will upload a video for it in my next post!
