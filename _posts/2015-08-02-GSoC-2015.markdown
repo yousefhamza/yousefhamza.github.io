@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "GSoC 2015: XForms here!"
+date:   2015-08-02 15:04:29
+categories: jekyll update
+---
+
+Hey there!
+
+We reached a very important and very last milestone in this GSoC which is uploading a form that's filled on the 
+iOS client for OpenMRS :)
+
+What's left is implementing a second view for it although that seems really really useless.. and testing Binary types
+And last but not least write some migration code for Coredata!
+
+Will share some pics in the next post.
+
