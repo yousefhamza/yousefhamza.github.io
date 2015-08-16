@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "GSoC 2015: Goodbye GSoC"
+date:   2015-08-16 15:04:29
+categories: jekyll update
+---
+
+Hello again. :)
+
+
+This is the last blog in my GSoC this year the experience has been really really tough -Think twice about participating!-
+but finally came to an end.
+
+It has been a nice exposure to working in real world scenarios and writing **LOTS** of code.. I mean LOTS!
+the code I wrote this summer is like 10x the code I have written in college!
+
+But overall it helped me figure out a lot of things I want to do with my life. It showed me that I like mobile development,
+and ALSO that mobile development scene right now isn't perfect at all and my very next step will probably be exploring
+other solutions that people worrying about that scene are making like React Native by Facebook.
+
+Ah, The App? :D
+
+The app is now in a very very very good shape right now, the xforms implementation is done and waiting for feedback form
+users about it, I have replaced Loading indicators with blocking ones which I thought shall be done for a while but never
+got the time to, now I'm in the process of finishing the app to release and hope that one will go smoothly :)
+
+Here's a link to a demo of submitting the app on the iOS client: https://www.youtube.com/watch?v=TCDIVFisKX4&feature=youtu.be
+
+Last but not least If you are reading this and found anything interesting. I want to point out that I will continue to
+add blogs to this post after a long deserved break and hope you will find those one interesting too.
+
