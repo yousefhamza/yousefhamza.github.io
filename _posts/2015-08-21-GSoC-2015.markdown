@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "GSoC 2015: GSoC = Done"
+date:   2015-08-21 15:04:29
+categories: jekyll update
+---
+
+Hello again. :)
+
+That's my last post about GSoC this one is to demonstrate the new release:
+
+The new features:
+- Rewritten Login view with a separate button for login to demo server
+- New settings icon in the mainmenu
+- Adding more information there, like the OpenMRS server URL and a link to the project page
+- Also added refreshing timer that you can configure to refresh the patient data when it's open on the device
+- Added XForms support
+ - User can view available xforms to fill
+ - User can save the xforms to fill where there's not internet connection
+ - User can open XForms and fill it from the App with 2 UI choices that you can choose from the settings
+ - User can submit XForms from the app to edit encounters for that patient on server
+ - User can view the XForm used to edit encounter from the app -If the encounter is set by an XForms-
+ - When no internet connection, user can save the filled forms offline to send them later when he has internet connection
+- Better handling for all the network errors across the app
+- Adding a new Activity indicators all across the app
+
+Here's a video to demonstrate the XForms functionality:
+ https://www.youtube.com/watch?v=RvSRoguIdNs
+
+And here's the link to the updated user guide for more details:
+ https://wiki.openmrs.org/display/docs/OpenMRS-iOS+User+Guide
+
+Here's the link to the JIRA issue:
+https://issues.openmrs.org/issues/?jql=project%20%3D%20IOS
+
+Thanks!
