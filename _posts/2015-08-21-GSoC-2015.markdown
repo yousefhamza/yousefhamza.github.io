@@ -25,13 +25,10 @@ The new features:
 * Better handling for all the network errors across the app
 * Adding a new Activity indicators all across the app
 
-Here's a video to demonstrate the XForms functionality:
- https://www.youtube.com/watch?v=RvSRoguIdNs
+Here's a video to demonstrate the XForms functionality: [Video](https://www.youtube.com/watch?v=RvSRoguIdNs)
 
-And here's the link to the updated user guide for more details:
- https://wiki.openmrs.org/display/docs/OpenMRS-iOS+User+Guide
+And here's the link to the updated user guide for more details: [Guide](https://wiki.openmrs.org/display/docs/OpenMRS-iOS+User+Guide)
 
-Here's the link to the JIRA issue:
-https://issues.openmrs.org/issues/?jql=project%20%3D%20IOS
+Here's the link to the JIRA issue: [JIRA](https://issues.openmrs.org/issues/?jql=project%20%3D%20IOS)
 
 Thanks!
