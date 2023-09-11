@@ -2,11 +2,11 @@
 title: Yousef Hamza
 email: jo.adam.93@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm Joe, I work <a href="https://instabug.com">at Instabug</a> as iOS Software engineer
+  I'm Joe, I'm an Engineering Manager <a href="https://instabug.com">at Instabug</a>.
 "baseurl": "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jo_adam
-github_username:  yousefhamza
+github_username: yousefhamza
 
 # Build settings
 markdown: kramdown
