@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "GSoC 2015: My third attempt, my first acceptance!"
-date:   2015-05-03 14:04:29
+title: "GSoC 2015: My third attempt, my first acceptance!"
+date: 2015-05-03 14:04:29
 categories: jekyll update
 ---
 
