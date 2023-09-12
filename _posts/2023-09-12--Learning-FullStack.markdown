@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning Paralysis"
-date: 2015-05-03 14:04:29
+date: 2023-09-12 18:04:29
 categories: jekyll update
 ---
 
